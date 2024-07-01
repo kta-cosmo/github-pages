@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | KTA page</title>
+    <link>https://kta-cosmo.github.io/publication/</link>
+      <atom:link href="https://kta-cosmo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Katsuya Abe All rights reserved.</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kta-cosmo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://kta-cosmo.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>CMB lensing from early-formed dark matter halos</title>
+      <link>https://kta-cosmo.github.io/publication/2024-ph-rv-d-109-j-3524-a/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2024-ph-rv-d-109-j-3524-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter distinguished by skewed microlensing in the ``Dragon Arc&#39;&#39;</title>
+      <link>https://kta-cosmo.github.io/publication/2024-ar-xiv-240519422-b/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2024-ar-xiv-240519422-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic approach to astrometric perturbations of critical curves by substructures</title>
+      <link>https://kta-cosmo.github.io/publication/2024-ph-rv-d-109-h-3517-a/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2024-ph-rv-d-109-h-3517-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JWST Discovery of $40&#43;$ Microlensed Stars in a Magnified Galaxy, the ``Dragon&#39;&#39; behind Abell 370</title>
+      <link>https://kta-cosmo.github.io/publication/2024-ar-xiv-240408045-f/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2024-ar-xiv-240408045-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translating nano-Hertz gravitational wave background into primordial perturbations taking account of the cosmological QCD phase transition</title>
+      <link>https://kta-cosmo.github.io/publication/2023-ph-rv-d-108-j-1304-a/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2023-ph-rv-d-108-j-1304-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primordial black holes and gravitational waves induced by exponential-tailed perturbations</title>
+      <link>https://kta-cosmo.github.io/publication/2023-jcap-05-044-a/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2023-jcap-05-044-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmological contribution from population III stars in ultracompact minihalos</title>
+      <link>https://kta-cosmo.github.io/publication/2022-ph-rv-d-106-h-3521-a/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2022-ph-rv-d-106-h-3521-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmological free-free emission from dark matter halos in the ensuremathŁambda CDM model</title>
+      <link>https://kta-cosmo.github.io/publication/2022-ph-rv-d-106-f-3523-a/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2022-ph-rv-d-106-f-3523-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint on the early-formed dark matter halos using the free-free emission in the Planck foreground analysis</title>
+      <link>https://kta-cosmo.github.io/publication/2022-ph-rv-d-105-f-3531-a/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2022-ph-rv-d-105-f-3531-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free-free background radiation from accreting primordial black holes</title>
+      <link>https://kta-cosmo.github.io/publication/2021-ar-xiv-210801916-t/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2021-ar-xiv-210801916-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Induced gravitational waves as a cosmological probe of the sound speed during the QCD phase transition</title>
+      <link>https://kta-cosmo.github.io/publication/2021-jcap-06-048-a/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2021-jcap-06-048-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population III star explosions and Planck 2018 data</title>
+      <link>https://kta-cosmo.github.io/publication/2021-ph-rv-d-103-l-3543-a/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2021-ph-rv-d-103-l-3543-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 21-cm signals from ultracompact minihaloes as a probe of primordial small-scale fluctuations</title>
+      <link>https://kta-cosmo.github.io/publication/2020-mnras-494-4334-f/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2020-mnras-494-4334-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Sunyaev-Zel&#39;dovich anisotropy due to primordial black holes</title>
+      <link>https://kta-cosmo.github.io/publication/2019-ph-rv-d-99-j-3519-a/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2019-ph-rv-d-99-j-3519-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
